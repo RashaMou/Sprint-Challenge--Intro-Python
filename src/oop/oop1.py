@@ -28,38 +28,32 @@ class Vehicle:
 ### FLIGHT VEHICLES BASE CLASS ###
 class FlightVehicle(Vehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
 
 ### GROUND VEHICLES BASE CLASS ###
 class GroundVehicle(Vehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
 
 
 class Car(GroundVehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
 
 class Motorcycle(GroundVehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
 
 class Airplane(FlightVehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
 
 class Starship(FlightVehicle):
     def __init__():
-        pass
-    def super().__init__():
-        pass
+        super().__init__()
+
